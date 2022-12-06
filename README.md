@@ -1,4 +1,4 @@
-# Unity Programmer 안태경 ⚡
+# 안태경 ⚡
 
 > **Stay Hungry, Stay Foolish**
 > 
