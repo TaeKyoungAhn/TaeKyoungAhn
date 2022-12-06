@@ -1,7 +1,5 @@
 # VR/AR Programmer 안태경 ⚡
 
-![IMG_3853.JPG](VR%20AR%20Programmer%20%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%90%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC%20%E2%9A%A1%2018d7192786f245a0935767a6d5005e80/IMG_3853.jpg)
-
 > **Stay Hungry, Stay Foolish**
 > 
 
@@ -13,21 +11,11 @@
 
 ---
 
-# 💻 Github
-
----
-
-[TaeKyoungAhn - Overview](https://github.com/TaeKyoungAhn)
-
 # 💾 Blog
 
----
-
-[](https://tkablog.tistory.com/)
+[Kyoungs_Life](https://tkablog.tistory.com/)
 
 # 🛠 Technical Skills
-
----
 
 **Common**                                                       
 
