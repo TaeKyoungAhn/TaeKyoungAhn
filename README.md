@@ -1,4 +1,4 @@
-# VR/AR Programmer 안태경 ⚡
+# Unity Programmer 안태경 ⚡
 
 > **Stay Hungry, Stay Foolish**
 > 
