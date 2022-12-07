@@ -15,6 +15,10 @@
 
 [Kyoungs_Life](https://tkablog.tistory.com/)
 
+# 🖥Notion
+
+[TaeKyoungAn Notion](https://puzzling-yumberry-9c7.notion.site/VR-AR-Programmer-18d7192786f245a0935767a6d5005e80)
+
 # 🛠 Technical Skills
 
 **Common**                                                       
